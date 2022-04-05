@@ -13,7 +13,7 @@
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para consultoria e voluntariado, ou apenas para uma discussão interessante..\
 📄 &nbsp;Por favor, dê uma olhada no meu currículo[Résumé](https://www.adityavsingh.com/resume.html) para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
 
-<!-- <img alt="Night Coding" src="https://discord.com/channels/692085107112280094/697532732019966052/960981463858298960" align="right"/> -->
+<img alt="Night Coding" src="https://github.com/RodolfoBredoff/rodolfobredoff/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
