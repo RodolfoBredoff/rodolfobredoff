@@ -11,7 +11,7 @@
 🌱 &nbsp;Entusiasta de Desenvolvimento de software, Arquitetura de Sitemas e Cloud Computing.\
 ✍️ &nbsp;No meu tempo livre, busco programar e ler como hobbies, além de atividades físicas ao ar livre..\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para consultoria e voluntariado, ou apenas para uma discussão interessante..\
-📄 &nbsp;Por favor, dê uma olhada no meu currículo[Résumé](https://www.adityavsingh.com/resume.html) para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
+📄 &nbsp;Por favor, dê uma olhada no meu currículo [LinkedIn](https://www.linkedin.com/in/rodolfo-soares/) para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
 
 <img alt="Night Coding" src="https://github.com/RodolfoBredoff/rodolfobredoff/blob/main/assets/Night-Coding.gif" align="right"/>
 
@@ -44,6 +44,8 @@
   <img align="center" alt="Rod-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
